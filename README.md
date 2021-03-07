@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/atisor73/processing_prints/blob/master/hexagon/gifs/darkdark.gif)
+![](https://github.com/atisor73/processing_prints/blob/master/hexagon/gifs/blackwhite_cluster.gif)
