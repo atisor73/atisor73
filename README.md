@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/atisor73/processing_prints/hexagon/stills/dark.png)
+![](https://github.com/atisor73/processing_prints/blob/master/hexagon/stills/dark.png)
