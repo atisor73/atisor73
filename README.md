@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi 👋
 
 <!--
 **atisor73/atisor73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github.com/atisor73/processing_prints/hexagon/stills/dark.png)
