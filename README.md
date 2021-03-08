@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github.com/atisor73/processing_prints/blob/master/hexagon/gifs/hollow22.gif)
-![](https://github.com/atisor73/processing_prints/blob/master/hexagon/gifs/blackwhite_cluster.gif)
 <p align="center">... :alien: communicating :alien: ...</p>
