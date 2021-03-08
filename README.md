@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github.com/atisor73/processing_prints/blob/master/hexagon/gifs/hollow22.gif)
+<p align="center">communicating with aliens...</p>
